@@ -1,3 +1,3 @@
 export default function Main() {
-  return <div className="col-2">Main</div>;
+  return <div className="col-1">Main</div>;
 }
